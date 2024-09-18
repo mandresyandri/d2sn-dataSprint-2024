@@ -7,7 +7,7 @@ Projet d'analyse de données dans le cadre du master Data Science et Société d
 
 
 ## 1 - Cookbook
-- [Analyse descriptive des données](analyse_1.ipynb)
+- [Analyse descriptive des données](1_analyse.ipynb)
 - [Pitch projet](https://www.canva.com/design/DAGRGeVyZHY/ybDrSsxFUkfj79s4DYSZFA/edit)
 - [Répartition des tâches](https://mandresyandri.notion.site/Data-sprint-campus-2024-10565cc309038070a66af322a9800c30)
 
