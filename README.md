@@ -17,7 +17,10 @@ Projet d'analyse de données dans le cadre du master Data Science et Société d
 
 
 ## Tuto équipe : 
-Cloner le code sur le Jupyter Lab dans e-learning
+Cloner le code sur le Jupyter Lab dans e-learning. 
+Étapes : 
+1. Ouvrir le terminal 
+2. Copier ce script : 
 ```bash
 git clone https://github.com/mandresyandri/d2sn-dataSprint-2024.git
 ```
