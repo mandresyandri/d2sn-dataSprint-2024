@@ -1,2 +1,16 @@
 # Data Sprint Campus 2024
-Les tarifs des TGV SNCF (INOUI et OUIGO)
+Projet d'analyse de données dans le cadre du master Data Science et Société du Numérique. Le projet se porte sur les données ouverts de la SNCF. 
+
+- **Source** : [Le portail open data SNCF](https://datasncf.opendatasoft.com/explore/)
+- **Sujet** : Les tarifs SNCF (TGV OUIGO et INOUI)
+- **Date** : Du 16 au 20 septembre 2024
+
+
+## 1 - Cookbook
+- [Analyse descriptive des données](analyse_1.ipynb)
+- [Pitch projet](https://www.canva.com/design/DAGRGeVyZHY/ybDrSsxFUkfj79s4DYSZFA/edit)
+- [Répartition des tâches]()
+
+## 2 - Préparation du corpus
+
+## 3 - Visualisation
