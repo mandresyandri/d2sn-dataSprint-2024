@@ -5,7 +5,6 @@ Projet d'analyse de données dans le cadre du master Data Science et Société d
 - **Sujet** : Les tarifs SNCF (TGV OUIGO et INOUI)
 - **Date** : Du 16 au 20 septembre 2024
 
-
 ## 1 - Cookbook
 - [Analyse descriptive des données](1_analyse.ipynb)
 - [Pitch projet](https://www.canva.com/design/DAGRGeVyZHY/ybDrSsxFUkfj79s4DYSZFA/edit)
@@ -15,3 +14,12 @@ Projet d'analyse de données dans le cadre du master Data Science et Société d
 - [Préparation des données supplémentaires](2_data_augmentation.ipynb)
 
 ## 3 - Visualisation
+
+
+## Tuto équipe : 
+Cloner le code sur le Jupyter Lab dans e-learning
+```bash
+git clone https://github.com/mandresyandri/d2sn-dataSprint-2024.git
+```
+
+> Rendez-vous sur Moodle
