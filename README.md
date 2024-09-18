@@ -22,4 +22,6 @@ Cloner le code sur le Jupyter Lab dans e-learning
 git clone https://github.com/mandresyandri/d2sn-dataSprint-2024.git
 ```
 
+![alt text](image.png)
+
 > Rendez-vous sur Moodle
