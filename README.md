@@ -11,13 +11,14 @@ Projet d'analyse de données dans le cadre du master Data Science et Société d
 - [Répartition des tâches](https://mandresyandri.notion.site/Data-sprint-campus-2024-10565cc309038070a66af322a9800c30)
 
 ## 2 - Travail méthodologie données
-- [Augmentation des données : Kilométrage](https://github.com/mandresyandri/d2sn-dataSprint-2024/blob/main/Avance%CC%81e_Prixkm.ipynb) **maj 19/09**
-- [Augmentation des données : région](https://github.com/mandresyandri/d2sn-dataSprint-2024/blob/main/2_data_augmentation_regions.ipynb) **maj 19/09**
+- [Augmentation des données : Kilométrage](2_data_augmentation_km.ipynb) **maj 19/09**
+- [Augmentation des données : région](2_data_augmentation_regions.ipynb) **maj 19/09**
 ## 3 - Visualisation
 À venir
 
 ## Tuto équipe : 
 Cloner le code sur le Jupyter Lab dans e-learning. 
+
 Étapes : 
 1. Ouvrir le terminal 
 2. Copier ce script : 
