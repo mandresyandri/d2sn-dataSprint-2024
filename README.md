@@ -11,7 +11,7 @@ Projet d'analyse de données dans le cadre du master Data Science et Société d
 - [Répartition des tâches](https://mandresyandri.notion.site/Data-sprint-campus-2024-10565cc309038070a66af322a9800c30)
 
 ## 2 - Préparation du corpus
-- [Augmentation des données : Kilométrage](2_data_augmentation.ipynb)
+- [Augmentation des données : Kilométrage](2_data_augmentation_km.ipynb)
 
 ## 3 - Visualisation
 
