@@ -14,7 +14,7 @@ gdf_region = gdf_region.set_crs(epsg=4326)
 fig = px.choropleth(gdf_region,
                     geojson=gdf_region.geometry,
                     locations=gdf_region.index,
-                    color='Prix par km',
+                    color='Prix moyen par km',
                     labels={'Prix par km': 'Tarif par km'})
 
 fig.update_geos(fitbounds="locations", visible=False)
