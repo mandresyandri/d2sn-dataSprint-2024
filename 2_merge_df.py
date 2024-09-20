@@ -21,6 +21,14 @@ merged_df = merged_df[[
     'Code UIC', 'geopoint', 'nom_region', 'geo_shape',
     'Destination', 'Prix par km']]
 
+#####
+# Calcul des prix avec un merge colonnes
+#####
+grouped_df = merged_df.groupby('nom_region')['Prix par km'].mean().reset_index()
+grouped_df = grouped_df.rename(columns={'Prix par km': 'Prix moyen par km'})
+merged_df = pd.merge(merged_df, grouped_df, on='nom_region', how='left')
+
+
 merged_df['geopoint'] = merged_df['geopoint'].apply(wkt.loads)
 merged_df['geo_shape'] = merged_df['geo_shape'].apply(wkt.loads)
 
